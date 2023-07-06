@@ -119,7 +119,7 @@ This application is covered under the [${answers.license}](LICENSE) license.`
         // Generate the README content based on user input
         const readmeContent = `
 # ${answers.title}
-f
+
 ## Description
 ${answers.description}
 
