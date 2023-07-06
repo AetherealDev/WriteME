@@ -5,7 +5,8 @@
 ReadME Generator
 
 # Video
-<iframe src="https://www.veed.io/embed/bcc3d825-4de3-4589-8c30-15cd709ccc55" width="744" height="504" frameborder="0" title="video_AdobeExpress" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://www.veed.io/embed/bcc3d825-4de3-4589-8c30-15cd709ccc55
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
